@@ -14,10 +14,10 @@ I will update this based on the bugs that people get :)
 1. CH340 Driver
 
 ## If you want to flash to STM32, follow these steps:
-1: Clone the repo to your own local folder
-2: Open STM32CubeIDE and find the workspace in repo folder
-3: Build the F411 project, ignore other projects
-4: Debug the F411 project then run it
+1. Clone the repo to your own local folder
+2. Open STM32CubeIDE and find the workspace in repo folder
+3. Build the F411 project, ignore other projects
+4. Debug the F411 project then run it
 
 ### Check the connection:
 'ls /dev/tty*'
