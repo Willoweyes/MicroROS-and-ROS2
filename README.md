@@ -7,6 +7,7 @@ However, please remember that I haven't write any MicroROS application yet! And 
 
 ## About this project
 Ubuntu 22.04LTS
+
 STM32CubeIDE
 
 ## Prerequisites:
@@ -21,6 +22,9 @@ I will update this based on the bugs that people get :)
 
 ### Check the connection:
 'ls /dev/tty*'
+
 Look for '/dev/ttyCH341USB0' (This only show if you had successfully install CH340 driver, otherwise, it will be ttyUSB0)
+
 'sudo screen /dev/ttyCH341USB0 115200'
+
 This line should show the string "Hello, computer!" after entered.
