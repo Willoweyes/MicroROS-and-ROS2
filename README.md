@@ -8,7 +8,7 @@ I am using STM32CubeIDE - FreeRTOS to setup MicroROS library to STM32F411
 
 This project is just upload MicroROS library to the STM32F411 microcontroller and make a communication to laptop through USB serial
 
-However, please remember that I haven't write any MicroROS application yet! And the blue LED built in should blink after 1s.
+However, please remember that I haven't write any MicroROS application yet! And the built-in blue LED should blink after 1s.
 
 Ubuntu 22.04LTS
 
