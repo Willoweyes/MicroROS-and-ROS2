@@ -8,6 +8,9 @@ Ubuntu 22.04LTS
 
 STM32CubeIDE
 
+## Prerequisites:
+I will update this based on the bug that people get :)
+
 ## If you want to run this, follow these steps:
 1: Clone the repo to your own local folder
 
