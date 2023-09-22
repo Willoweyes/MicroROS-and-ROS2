@@ -25,10 +25,10 @@ I will update this based on the bugs that people get :)
 4. Debug the F411 project then run it
 
 ### Check the connection:
-'ls /dev/tty*'
+`ls /dev/tty*`
 
-Look for '/dev/ttyCH341USB0' (This only show if you had successfully install CH340 driver, otherwise, it will be ttyUSB0)
+Look for `/dev/ttyCH341USB0` (This only show if you had successfully install CH340 driver, otherwise, it will be ttyUSB0)
 
-'sudo screen /dev/ttyCH341USB0 115200'
+`sudo screen /dev/ttyCH341USB0 115200`
 
 This line should show the string "Hello, computer!" after entered.
