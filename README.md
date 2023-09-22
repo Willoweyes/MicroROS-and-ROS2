@@ -2,7 +2,7 @@
 Using MicroROS and ROS2 to setup communication between host computer and microcontroller (STM32F411E - Disco board)
 
 I am using STM32CubeIDE - FreeRTOS to setup MicroROS library to STM32F411
-# This project is just upload MicroROS library to the STM32F411 microcontroller and make a communication to laptop through USB serial
+## This project is just upload MicroROS library to the STM32F411 microcontroller and make a communication to laptop through USB serial
 However, please remember that I haven't write any MicroROS application yet! And the blue LED built in should blink after 1s.
 
 ## About this project
